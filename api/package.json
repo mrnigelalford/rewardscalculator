@@ -1,0 +1,18 @@
+{
+  "name": "rewards-program-api",
+  "version": "0.0.1",
+  "description": "graphql api endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "server": "node server.js"
+  },
+  "author": "nigel alford",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}

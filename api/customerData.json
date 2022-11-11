@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Acme",
+    "amount": 120,
+    "transactionDt": "05-01-2021"
+  },
+  {
+    "id": 2,
+    "name": "Acme",
+    "amount": 75,
+    "transactionDt": "06-21-2021"
+  },
+  {
+    "id": 3,
+    "name": "Acme",
+    "amount": 94,
+    "transactionDt": "07-21-2021"
+  },
+  {
+    "id": 4,
+    "name": "Acme",
+    "amount": 10,
+    "transactionDt": "05-01-2021"
+  },
+  {
+    "id": 5,
+    "name": "Acme",
+    "amount": 75,
+    "transactionDt": "06-21-2021"
+  },
+  {
+    "id": 6,
+    "name": "Acme",
+    "amount": 200,
+    "transactionDt": "05-01-2021"
+  },
+  {
+    "id": 7,
+    "name": "Acme",
+    "amount": 1,
+    "transactionDt": "06-04-2021"
+  },
+  {
+    "id": 8,
+    "name": "Acme",
+    "amount": 80,
+    "transactionDt": "07-03-2021"
+  },
+  {
+    "id": 9,
+    "name": "Acme",
+    "amount": 224,
+    "transactionDt": "07-21-2021"
+  },
+  {
+    "id": 10,
+    "name": "Century",
+    "amount": 125,
+    "transactionDt": "05-01-2021"
+  },
+  {
+    "id": 11,
+    "name": "Century",
+    "amount": 75,
+    "transactionDt": "05-21-2021"
+  },
+  {
+    "id": 12,
+    "name": "Century",
+    "amount": 10,
+    "transactionDt": "06-01-2021"
+  },
+  {
+    "id": 13,
+    "name": "Century",
+    "amount": 75,
+    "transactionDt": "06-21-2021"
+  },
+  {
+    "id": 33,
+    "name": "Century",
+    "amount": 200,
+    "transactionDt": "07-01-2021"
+  },
+  {
+    "id": 245,
+    "name": "Century",
+    "amount": 224,
+    "transactionDt": "07-21-2021"
+  },
+  {
+    "id": 35,
+    "name": "Sallys Startup",
+    "amount": 120,
+    "transactionDt": "06-21-2021"
+  },
+  {
+    "id": 38,
+    "name": "Sallys Startup",
+    "amount": 120,
+    "transactionDt": "06-21-2021"
+  },
+  {
+    "id": 39,
+    "name": "Sallys Startup",
+    "amount": 300,
+    "transactionDt": "06-21-2021"
+  },
+  {
+    "id": 15,
+    "name": "Sallys Startup",
+    "amount": 3000,
+    "transactionDt": "05-21-2021"
+  },
+  {
+    "id": 19,
+    "name": "Sallys Startup",
+    "amount": 90,
+    "transactionDt": "05-21-2021"
+  },
+  {
+    "id": 22,
+    "name": "Sallys Startup",
+    "amount": 40,
+    "transactionDt": "05-21-2021"
+  },
+  {
+    "id": 23,
+    "name": "Sallys Startup",
+    "amount": 2034,
+    "transactionDt": "07-21-2021"
+  },
+  {
+    "id": 24,
+    "name": "Sallys Startup",
+    "amount": 60,
+    "transactionDt": "07-21-2021"
+  }
+]
